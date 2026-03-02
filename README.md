@@ -1,1 +1,1 @@
-# -sistema-b-sico-de-gesti-n-de-productos
+Sistemas de gestion de productos
